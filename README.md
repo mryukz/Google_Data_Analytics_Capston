@@ -1,2 +1,3 @@
-# Google_Data_Analytics_Capston
+# Google Data Analytics Capstone Project
+
 This my project for Google data analytics capstone
